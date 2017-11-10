@@ -1,6 +1,10 @@
 package parades.mananciais.model;
 
 import java.util.ArrayList;
+/**
+*@author larissa
+*@version funcionalidade_x
+*/
 
 public class Represa {
 	public String nome;

@@ -1,7 +1,10 @@
 package parades.mananciais.model;
 
 import java.util.Date;
-
+/**
+*@author larissa
+*@version master
+*/
 public class Medicao {
 	private double volume;
 	private Date data;
